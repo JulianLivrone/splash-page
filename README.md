@@ -1,6 +1,6 @@
 # Splash Page
 
-This is a web splash page created from a Figma design. The page is designed to showcase a mobile app called "Habitual" and provide users with information about the app, as well as links to download it from the App Store and Google Play.
+This is a web splash page created from a [Figma Design](https://www.figma.com/file/4KIM14zOqqIKRuF8kBtHGs/Showcase-Website?node-id=1-2&t=5kAbPbgTg4FqWDVM-0). The page is designed to showcase a mobile app called "Habitual" and provide users with information about the app, as well as links to download it from the App Store and Google Play. The development of this application mimics the scenario where the developer has to develop a web page from a professional Figma design.
 
 ## Features
 
